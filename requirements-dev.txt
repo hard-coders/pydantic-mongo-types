@@ -1,0 +1,2 @@
+-r requirements.txt
+bandit[tomml]>=1.7.5
